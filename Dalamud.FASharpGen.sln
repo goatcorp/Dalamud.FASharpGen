@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dalamud.FASharpGen", "Dalamud.FASharpGen.csproj", "{3EBE9745-74C6-4057-BB2A-8E60F3F63A15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F570BCCB-D937-4D7F-815A-348612602025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F570BCCB-D937-4D7F-815A-348612602025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F570BCCB-D937-4D7F-815A-348612602025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F570BCCB-D937-4D7F-815A-348612602025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EBE9745-74C6-4057-BB2A-8E60F3F63A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EBE9745-74C6-4057-BB2A-8E60F3F63A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EBE9745-74C6-4057-BB2A-8E60F3F63A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EBE9745-74C6-4057-BB2A-8E60F3F63A15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5715E097-E80B-4B5B-8D03-B9EA5DDB1C14}
+	EndGlobalSection
+EndGlobal
