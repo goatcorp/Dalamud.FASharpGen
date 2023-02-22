@@ -1,4 +1,4 @@
-﻿namespace FASharpGen;
+﻿namespace Dalamud.FASharpGen;
 
 public enum DalamudIconState
 {

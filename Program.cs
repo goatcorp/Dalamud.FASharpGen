@@ -17,7 +17,7 @@ using YamlDotNet.Serialization;
 // ReSharper disable ForeachCanBePartlyConvertedToQueryUsingAnotherGetEnumerator
 // ReSharper disable RedundantAssignment
 // ReSharper disable ConvertIfStatementToConditionalTernaryExpression
-namespace FASharpGen;
+namespace Dalamud.FASharpGen;
 
 public static class Program
 {

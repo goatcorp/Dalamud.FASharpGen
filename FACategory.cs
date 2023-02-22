@@ -1,6 +1,6 @@
 ﻿// ReSharper disable UnusedAutoPropertyAccessor.Global
 // ReSharper disable PropertyCanBeMadeInitOnly.Global
-namespace FASharpGen;
+namespace Dalamud.FASharpGen;
 
 public class FACategory
 {

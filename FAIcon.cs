@@ -1,6 +1,6 @@
 ﻿// ReSharper disable PropertyCanBeMadeInitOnly.Global
 // ReSharper disable UnusedAutoPropertyAccessor.Global
-namespace FASharpGen;
+namespace Dalamud.FASharpGen;
 
 public class FAIcon
 {

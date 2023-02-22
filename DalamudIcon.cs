@@ -6,7 +6,7 @@
 using System.Collections.Generic;
 using System.Runtime.Serialization;
 
-namespace FASharpGen;
+namespace Dalamud.FASharpGen;
 
 [DataContract]
 public class DalamudIcon
