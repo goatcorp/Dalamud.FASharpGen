@@ -32,7 +32,7 @@
   {
     "name": "_500Px",
     "unicode": "0xF26E",
-    "state": 1
+    "state": 2
   },
   {
     "name": "_6",
@@ -62,12 +62,12 @@
   {
     "name": "AccessibleIcon",
     "unicode": "0xF368",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Accusoft",
     "unicode": "0xF369",
-    "state": 1
+    "state": 2
   },
   {
     "name": "AcquisitionsIncorporated",
@@ -97,7 +97,7 @@
   {
     "name": "Adn",
     "unicode": "0xF170",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Adobe",
@@ -107,17 +107,17 @@
   {
     "name": "Adversal",
     "unicode": "0xF36A",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Affiliatetheme",
     "unicode": "0xF36B",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Airbnb",
     "unicode": "0xF834",
-    "state": 1
+    "state": 2
   },
   {
     "name": "AirFreshener",
@@ -127,7 +127,7 @@
   {
     "name": "Algolia",
     "unicode": "0xF36C",
-    "state": 1
+    "state": 2
   },
   {
     "name": "AlignCenter",
@@ -152,7 +152,7 @@
   {
     "name": "Alipay",
     "unicode": "0xF642",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Allergies",
@@ -162,12 +162,12 @@
   {
     "name": "Amazon",
     "unicode": "0xF270",
-    "state": 1
+    "state": 2
   },
   {
     "name": "AmazonPay",
     "unicode": "0xF42C",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Ambulance",
@@ -182,7 +182,7 @@
   {
     "name": "Amilia",
     "unicode": "0xF36D",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Anchor",
@@ -212,12 +212,12 @@
   {
     "name": "Android",
     "unicode": "0xF17B",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Angellist",
     "unicode": "0xF209",
-    "state": 1
+    "state": 2
   },
   {
     "name": "AngleDoubleDown",
@@ -267,12 +267,12 @@
   {
     "name": "Angrycreative",
     "unicode": "0xF36E",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Angular",
     "unicode": "0xF420",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Ankh",
@@ -282,12 +282,12 @@
   {
     "name": "Apper",
     "unicode": "0xF371",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Apple",
     "unicode": "0xF179",
-    "state": 1
+    "state": 2
   },
   {
     "name": "AppleAlt",
@@ -297,17 +297,17 @@
   {
     "name": "ApplePay",
     "unicode": "0xF415",
-    "state": 1
+    "state": 2
   },
   {
     "name": "AppStore",
     "unicode": "0xF36F",
-    "state": 1
+    "state": 2
   },
   {
     "name": "AppStoreIos",
     "unicode": "0xF370",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Archive",
@@ -562,7 +562,7 @@
   {
     "name": "Artstation",
     "unicode": "0xF77A",
-    "state": 1
+    "state": 2
   },
   {
     "name": "AssistiveListeningSystems",
@@ -577,7 +577,7 @@
   {
     "name": "Asymmetrik",
     "unicode": "0xF372",
-    "state": 1
+    "state": 2
   },
   {
     "name": "At",
@@ -592,7 +592,7 @@
   {
     "name": "Atlassian",
     "unicode": "0xF77B",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Atom",
@@ -602,7 +602,7 @@
   {
     "name": "Audible",
     "unicode": "0xF373",
-    "state": 1
+    "state": 2
   },
   {
     "name": "AudioDescription",
@@ -617,17 +617,17 @@
   {
     "name": "Autoprefixer",
     "unicode": "0xF41C",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Avianex",
     "unicode": "0xF374",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Aviato",
     "unicode": "0xF421",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Award",
@@ -637,7 +637,7 @@
   {
     "name": "Aws",
     "unicode": "0xF375",
-    "state": 1
+    "state": 2
   },
   {
     "name": "B",
@@ -717,7 +717,7 @@
   {
     "name": "Bandcamp",
     "unicode": "0xF2D5",
-    "state": 1
+    "state": 2
   },
   {
     "name": "BangladeshiTakaSign",
@@ -787,7 +787,7 @@
   {
     "name": "BattleNet",
     "unicode": "0xF835",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Bed",
@@ -802,12 +802,12 @@
   {
     "name": "Behance",
     "unicode": "0xF1B4",
-    "state": 1
+    "state": 2
   },
   {
     "name": "BehanceSquare",
     "unicode": "0xF1B5",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Bell",
@@ -842,7 +842,7 @@
   {
     "name": "Bimobject",
     "unicode": "0xF378",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Binoculars",
@@ -862,12 +862,12 @@
   {
     "name": "Bitbucket",
     "unicode": "0xF171",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Bitcoin",
     "unicode": "0xF379",
-    "state": 1
+    "state": 2
   },
   {
     "name": "BitcoinSign",
@@ -877,17 +877,17 @@
   {
     "name": "Bity",
     "unicode": "0xF37A",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Blackberry",
     "unicode": "0xF37B",
-    "state": 1
+    "state": 2
   },
   {
     "name": "BlackTie",
     "unicode": "0xF27E",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Blender",
@@ -912,22 +912,22 @@
   {
     "name": "Blogger",
     "unicode": "0xF37C",
-    "state": 1
+    "state": 2
   },
   {
     "name": "BloggerB",
     "unicode": "0xF37D",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Bluetooth",
     "unicode": "0xF293",
-    "state": 1
+    "state": 2
   },
   {
     "name": "BluetoothB",
     "unicode": "0xF294",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Bold",
@@ -1002,7 +1002,7 @@
   {
     "name": "Bootstrap",
     "unicode": "0xF836",
-    "state": 1
+    "state": 2
   },
   {
     "name": "BorderAll",
@@ -1152,7 +1152,7 @@
   {
     "name": "Btc",
     "unicode": "0xF15A",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Bucket",
@@ -1162,7 +1162,7 @@
   {
     "name": "Buffer",
     "unicode": "0xF837",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Bug",
@@ -1257,7 +1257,7 @@
   {
     "name": "Buromobelexperte",
     "unicode": "0xF37F",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Burst",
@@ -1282,12 +1282,12 @@
   {
     "name": "BuyNLarge",
     "unicode": "0xF8A6",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Buysellads",
     "unicode": "0xF20D",
-    "state": 1
+    "state": 2
   },
   {
     "name": "C",
@@ -1362,7 +1362,7 @@
   {
     "name": "CanadianMapleLeaf",
     "unicode": "0xF785",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CandyCane",
@@ -1487,52 +1487,52 @@
   {
     "name": "CcAmazonPay",
     "unicode": "0xF42D",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CcAmex",
     "unicode": "0xF1F3",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CcApplePay",
     "unicode": "0xF416",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CcDinersClub",
     "unicode": "0xF24C",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CcDiscover",
     "unicode": "0xF1F2",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CcJcb",
     "unicode": "0xF24B",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CcMastercard",
     "unicode": "0xF1F1",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CcPaypal",
     "unicode": "0xF1F4",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CcStripe",
     "unicode": "0xF1F5",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CcVisa",
     "unicode": "0xF1F0",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CediSign",
@@ -1542,12 +1542,12 @@
   {
     "name": "Centercode",
     "unicode": "0xF380",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Centos",
     "unicode": "0xF789",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CentSign",
@@ -1747,12 +1747,12 @@
   {
     "name": "Chrome",
     "unicode": "0xF268",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Chromecast",
     "unicode": "0xF838",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Church",
@@ -1867,7 +1867,7 @@
   {
     "name": "Cloudscale",
     "unicode": "0xF383",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CloudShowersHeavy",
@@ -1882,7 +1882,7 @@
   {
     "name": "Cloudsmith",
     "unicode": "0xF384",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CloudSun",
@@ -1902,7 +1902,7 @@
   {
     "name": "Cloudversify",
     "unicode": "0xF385",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Clover",
@@ -1947,7 +1947,7 @@
   {
     "name": "Codepen",
     "unicode": "0xF1CB",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CodePullRequest",
@@ -1957,7 +1957,7 @@
   {
     "name": "Codiepie",
     "unicode": "0xF284",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Coffee",
@@ -2067,17 +2067,17 @@
   {
     "name": "Confluence",
     "unicode": "0xF78D",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Connectdevelop",
     "unicode": "0xF20E",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Contao",
     "unicode": "0xF26D",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Cookie",
@@ -2102,7 +2102,7 @@
   {
     "name": "CottonBureau",
     "unicode": "0xF89E",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Couch",
@@ -2117,77 +2117,77 @@
   {
     "name": "Cpanel",
     "unicode": "0xF388",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CreativeCommons",
     "unicode": "0xF25E",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CreativeCommonsBy",
     "unicode": "0xF4E7",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CreativeCommonsNc",
     "unicode": "0xF4E8",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CreativeCommonsNcEu",
     "unicode": "0xF4E9",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CreativeCommonsNcJp",
     "unicode": "0xF4EA",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CreativeCommonsNd",
     "unicode": "0xF4EB",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CreativeCommonsPd",
     "unicode": "0xF4EC",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CreativeCommonsPdAlt",
     "unicode": "0xF4ED",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CreativeCommonsRemix",
     "unicode": "0xF4EE",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CreativeCommonsSa",
     "unicode": "0xF4EF",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CreativeCommonsSampling",
     "unicode": "0xF4F0",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CreativeCommonsSamplingPlus",
     "unicode": "0xF4F1",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CreativeCommonsShare",
     "unicode": "0xF4F2",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CreativeCommonsZero",
     "unicode": "0xF4F3",
-    "state": 1
+    "state": 2
   },
   {
     "name": "CreditCard",
@@ -2197,7 +2197,7 @@
   {
     "name": "CriticalRole",
     "unicode": "0xF6C9",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Crop",
@@ -2242,12 +2242,12 @@
   {
     "name": "Css3",
     "unicode": "0xF13C",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Css3Alt",
     "unicode": "0xF38B",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Cube",
@@ -2272,7 +2272,7 @@
   {
     "name": "Cuttlefish",
     "unicode": "0xF38C",
-    "state": 1
+    "state": 2
   },
   {
     "name": "D",
@@ -2282,22 +2282,22 @@
   {
     "name": "Dailymotion",
     "unicode": "0xF952",
-    "state": 1
+    "state": 2
   },
   {
     "name": "DAndD",
     "unicode": "0xF38D",
-    "state": 1
+    "state": 2
   },
   {
     "name": "DAndDBeyond",
     "unicode": "0xF6CA",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Dashcube",
     "unicode": "0xF210",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Database",
@@ -2312,7 +2312,7 @@
   {
     "name": "Delicious",
     "unicode": "0xF1A5",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Democrat",
@@ -2322,12 +2322,12 @@
   {
     "name": "Deploydog",
     "unicode": "0xF38E",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Deskpro",
     "unicode": "0xF38F",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Desktop",
@@ -2337,12 +2337,12 @@
   {
     "name": "Dev",
     "unicode": "0xF6CC",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Deviantart",
     "unicode": "0xF1BD",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Dharmachakra",
@@ -2352,7 +2352,7 @@
   {
     "name": "Dhl",
     "unicode": "0xF790",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Diagnoses",
@@ -2382,7 +2382,7 @@
   {
     "name": "Diaspora",
     "unicode": "0xF791",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Dice",
@@ -2432,12 +2432,12 @@
   {
     "name": "Digg",
     "unicode": "0xF1A6",
-    "state": 1
+    "state": 2
   },
   {
     "name": "DigitalOcean",
     "unicode": "0xF391",
-    "state": 1
+    "state": 2
   },
   {
     "name": "DigitalTachograph",
@@ -2452,12 +2452,12 @@
   {
     "name": "Discord",
     "unicode": "0xF392",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Discourse",
     "unicode": "0xF393",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Disease",
@@ -2487,12 +2487,12 @@
   {
     "name": "Dochub",
     "unicode": "0xF394",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Docker",
     "unicode": "0xF395",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Dog",
@@ -2552,7 +2552,7 @@
   {
     "name": "Draft2digital",
     "unicode": "0xF396",
-    "state": 1
+    "state": 2
   },
   {
     "name": "DraftingCompass",
@@ -2572,17 +2572,17 @@
   {
     "name": "Dribbble",
     "unicode": "0xF17D",
-    "state": 1
+    "state": 2
   },
   {
     "name": "DribbbleSquare",
     "unicode": "0xF397",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Dropbox",
     "unicode": "0xF16B",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Drum",
@@ -2602,7 +2602,7 @@
   {
     "name": "Drupal",
     "unicode": "0xF1A9",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Dumbbell",
@@ -2627,7 +2627,7 @@
   {
     "name": "Dyalog",
     "unicode": "0xF399",
-    "state": 1
+    "state": 2
   },
   {
     "name": "E",
@@ -2637,7 +2637,7 @@
   {
     "name": "Earlybirds",
     "unicode": "0xF39A",
-    "state": 1
+    "state": 2
   },
   {
     "name": "EarthOceania",
@@ -2647,12 +2647,12 @@
   {
     "name": "Ebay",
     "unicode": "0xF4F4",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Edge",
     "unicode": "0xF282",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Edit",
@@ -2672,7 +2672,7 @@
   {
     "name": "Elementor",
     "unicode": "0xF430",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Elevator",
@@ -2692,17 +2692,17 @@
   {
     "name": "Ello",
     "unicode": "0xF5F1",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Ember",
     "unicode": "0xF423",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Empire",
     "unicode": "0xF1D1",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Envelope",
@@ -2732,7 +2732,7 @@
   {
     "name": "Envira",
     "unicode": "0xF299",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Equals",
@@ -2747,12 +2747,12 @@
   {
     "name": "Erlang",
     "unicode": "0xF39D",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Ethereum",
     "unicode": "0xF42E",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Ethernet",
@@ -2762,7 +2762,7 @@
   {
     "name": "Etsy",
     "unicode": "0xF2D7",
-    "state": 1
+    "state": 2
   },
   {
     "name": "EuroSign",
@@ -2772,7 +2772,7 @@
   {
     "name": "Evernote",
     "unicode": "0xF839",
-    "state": 1
+    "state": 2
   },
   {
     "name": "ExchangeAlt",
@@ -2812,7 +2812,7 @@
   {
     "name": "Expeditedssl",
     "unicode": "0xF23E",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Explosion",
@@ -2852,22 +2852,22 @@
   {
     "name": "Facebook",
     "unicode": "0xF09A",
-    "state": 1
+    "state": 2
   },
   {
     "name": "FacebookF",
     "unicode": "0xF39E",
-    "state": 1
+    "state": 2
   },
   {
     "name": "FacebookMessenger",
     "unicode": "0xF39F",
-    "state": 1
+    "state": 2
   },
   {
     "name": "FacebookSquare",
     "unicode": "0xF082",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Fan",
@@ -2877,7 +2877,7 @@
   {
     "name": "FantasyFlightGames",
     "unicode": "0xF6DC",
-    "state": 1
+    "state": 2
   },
   {
     "name": "FastBackward",
@@ -2917,12 +2917,12 @@
   {
     "name": "Fedex",
     "unicode": "0xF797",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Fedora",
     "unicode": "0xF798",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Female",
@@ -2942,7 +2942,7 @@
   {
     "name": "Figma",
     "unicode": "0xF799",
-    "state": 1
+    "state": 2
   },
   {
     "name": "File",
@@ -3152,12 +3152,12 @@
   {
     "name": "Firefox",
     "unicode": "0xF269",
-    "state": 1
+    "state": 2
   },
   {
     "name": "FirefoxBrowser",
     "unicode": "0xF907",
-    "state": 1
+    "state": 2
   },
   {
     "name": "FirstAid",
@@ -3167,17 +3167,17 @@
   {
     "name": "Firstdraft",
     "unicode": "0xF3A1",
-    "state": 1
+    "state": 2
   },
   {
     "name": "FirstOrder",
     "unicode": "0xF2B0",
-    "state": 1
+    "state": 2
   },
   {
     "name": "FirstOrderAlt",
     "unicode": "0xF50A",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Fish",
@@ -3222,12 +3222,12 @@
   {
     "name": "Flickr",
     "unicode": "0xF16E",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Flipboard",
     "unicode": "0xF44D",
-    "state": 1
+    "state": 2
   },
   {
     "name": "FlorinSign",
@@ -3242,7 +3242,7 @@
   {
     "name": "Fly",
     "unicode": "0xF417",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Folder",
@@ -3287,7 +3287,7 @@
   {
     "name": "FontAwesomeAlt",
     "unicode": "0xF35C",
-    "state": 1
+    "state": 2
   },
   {
     "name": "FontAwesomeFlag",
@@ -3302,12 +3302,12 @@
   {
     "name": "Fonticons",
     "unicode": "0xF280",
-    "state": 1
+    "state": 2
   },
   {
     "name": "FonticonsFi",
     "unicode": "0xF3A2",
-    "state": 1
+    "state": 2
   },
   {
     "name": "FootballBall",
@@ -3317,17 +3317,17 @@
   {
     "name": "FortAwesome",
     "unicode": "0xF286",
-    "state": 1
+    "state": 2
   },
   {
     "name": "FortAwesomeAlt",
     "unicode": "0xF3A3",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Forumbee",
     "unicode": "0xF211",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Forward",
@@ -3337,7 +3337,7 @@
   {
     "name": "Foursquare",
     "unicode": "0xF180",
-    "state": 1
+    "state": 2
   },
   {
     "name": "FrancSign",
@@ -3347,12 +3347,12 @@
   {
     "name": "Freebsd",
     "unicode": "0xF3A4",
-    "state": 1
+    "state": 2
   },
   {
     "name": "FreeCodeCamp",
     "unicode": "0xF2C5",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Frog",
@@ -3372,7 +3372,7 @@
   {
     "name": "Fulcrum",
     "unicode": "0xF50B",
-    "state": 1
+    "state": 2
   },
   {
     "name": "FunnelDollar",
@@ -3392,12 +3392,12 @@
   {
     "name": "GalacticRepublic",
     "unicode": "0xF50C",
-    "state": 1
+    "state": 2
   },
   {
     "name": "GalacticSenate",
     "unicode": "0xF50D",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Gamepad",
@@ -3442,17 +3442,17 @@
   {
     "name": "GetPocket",
     "unicode": "0xF265",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Gg",
     "unicode": "0xF260",
-    "state": 1
+    "state": 2
   },
   {
     "name": "GgCircle",
     "unicode": "0xF261",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Ghost",
@@ -3472,47 +3472,47 @@
   {
     "name": "Git",
     "unicode": "0xF1D3",
-    "state": 1
+    "state": 2
   },
   {
     "name": "GitAlt",
     "unicode": "0xF841",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Github",
     "unicode": "0xF09B",
-    "state": 1
+    "state": 2
   },
   {
     "name": "GithubAlt",
     "unicode": "0xF113",
-    "state": 1
+    "state": 2
   },
   {
     "name": "GithubSquare",
     "unicode": "0xF092",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Gitkraken",
     "unicode": "0xF3A6",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Gitlab",
     "unicode": "0xF296",
-    "state": 1
+    "state": 2
   },
   {
     "name": "GitSquare",
     "unicode": "0xF1D2",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Gitter",
     "unicode": "0xF426",
-    "state": 1
+    "state": 2
   },
   {
     "name": "GlassCheers",
@@ -3552,12 +3552,12 @@
   {
     "name": "Glide",
     "unicode": "0xF2A5",
-    "state": 1
+    "state": 2
   },
   {
     "name": "GlideG",
     "unicode": "0xF2A6",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Globe",
@@ -3587,7 +3587,7 @@
   {
     "name": "Gofore",
     "unicode": "0xF3A7",
-    "state": 1
+    "state": 2
   },
   {
     "name": "GolfBall",
@@ -3597,47 +3597,47 @@
   {
     "name": "Goodreads",
     "unicode": "0xF3A8",
-    "state": 1
+    "state": 2
   },
   {
     "name": "GoodreadsG",
     "unicode": "0xF3A9",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Google",
     "unicode": "0xF1A0",
-    "state": 1
+    "state": 2
   },
   {
     "name": "GoogleDrive",
     "unicode": "0xF3AA",
-    "state": 1
+    "state": 2
   },
   {
     "name": "GooglePlay",
     "unicode": "0xF3AB",
-    "state": 1
+    "state": 2
   },
   {
     "name": "GooglePlus",
     "unicode": "0xF2B3",
-    "state": 1
+    "state": 2
   },
   {
     "name": "GooglePlusG",
     "unicode": "0xF0D5",
-    "state": 1
+    "state": 2
   },
   {
     "name": "GooglePlusSquare",
     "unicode": "0xF0D4",
-    "state": 1
+    "state": 2
   },
   {
     "name": "GoogleWallet",
     "unicode": "0xF1EE",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Gopuram",
@@ -3652,12 +3652,12 @@
   {
     "name": "Gratipay",
     "unicode": "0xF184",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Grav",
     "unicode": "0xF2D6",
-    "state": 1
+    "state": 2
   },
   {
     "name": "GreaterThan",
@@ -3742,7 +3742,7 @@
   {
     "name": "Gripfire",
     "unicode": "0xF3AC",
-    "state": 1
+    "state": 2
   },
   {
     "name": "GripHorizontal",
@@ -3772,7 +3772,7 @@
   {
     "name": "Grunt",
     "unicode": "0xF3AD",
-    "state": 1
+    "state": 2
   },
   {
     "name": "GuaraniSign",
@@ -3787,7 +3787,7 @@
   {
     "name": "Gulp",
     "unicode": "0xF3AE",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Gun",
@@ -3802,17 +3802,17 @@
   {
     "name": "HackerNews",
     "unicode": "0xF1D4",
-    "state": 1
+    "state": 2
   },
   {
     "name": "HackerNewsSquare",
     "unicode": "0xF3AF",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Hackerrank",
     "unicode": "0xF5F7",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Hamburger",
@@ -4147,12 +4147,12 @@
   {
     "name": "Hips",
     "unicode": "0xF452",
-    "state": 1
+    "state": 2
   },
   {
     "name": "HireAHelper",
     "unicode": "0xF3B0",
-    "state": 1
+    "state": 2
   },
   {
     "name": "History",
@@ -4177,12 +4177,12 @@
   {
     "name": "Hooli",
     "unicode": "0xF427",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Hornbill",
     "unicode": "0xF592",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Horse",
@@ -4227,7 +4227,7 @@
   {
     "name": "Hotjar",
     "unicode": "0xF3B1",
-    "state": 1
+    "state": 2
   },
   {
     "name": "HotTub",
@@ -4367,7 +4367,7 @@
   {
     "name": "Houzz",
     "unicode": "0xF27C",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Hryvnia",
@@ -4382,12 +4382,12 @@
   {
     "name": "Html5",
     "unicode": "0xF13B",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Hubspot",
     "unicode": "0xF3B2",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Hurricane",
@@ -4437,7 +4437,7 @@
   {
     "name": "Ideal",
     "unicode": "0xF913",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Igloo",
@@ -4457,7 +4457,7 @@
   {
     "name": "Imdb",
     "unicode": "0xF2D8",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Inbox",
@@ -4497,32 +4497,32 @@
   {
     "name": "Instagram",
     "unicode": "0xF16D",
-    "state": 1
+    "state": 2
   },
   {
     "name": "InstagramSquare",
     "unicode": "0xF955",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Intercom",
     "unicode": "0xF7AF",
-    "state": 1
+    "state": 2
   },
   {
     "name": "InternetExplorer",
     "unicode": "0xF26B",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Invision",
     "unicode": "0xF7B0",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Ioxhost",
     "unicode": "0xF208",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Italic",
@@ -4532,17 +4532,17 @@
   {
     "name": "ItchIo",
     "unicode": "0xF83A",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Itunes",
     "unicode": "0xF3B4",
-    "state": 1
+    "state": 2
   },
   {
     "name": "ItunesNote",
     "unicode": "0xF3B5",
-    "state": 1
+    "state": 2
   },
   {
     "name": "J",
@@ -4562,7 +4562,7 @@
   {
     "name": "Java",
     "unicode": "0xF4E4",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Jedi",
@@ -4572,12 +4572,12 @@
   {
     "name": "JediOrder",
     "unicode": "0xF50E",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Jenkins",
     "unicode": "0xF3B6",
-    "state": 1
+    "state": 2
   },
   {
     "name": "JetFighterUp",
@@ -4587,12 +4587,12 @@
   {
     "name": "Jira",
     "unicode": "0xF7B1",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Joget",
     "unicode": "0xF3B7",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Joint",
@@ -4602,7 +4602,7 @@
   {
     "name": "Joomla",
     "unicode": "0xF1AA",
-    "state": 1
+    "state": 2
   },
   {
     "name": "JournalWhills",
@@ -4612,17 +4612,17 @@
   {
     "name": "Js",
     "unicode": "0xF3B8",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Jsfiddle",
     "unicode": "0xF1CC",
-    "state": 1
+    "state": 2
   },
   {
     "name": "JsSquare",
     "unicode": "0xF3B9",
-    "state": 1
+    "state": 2
   },
   {
     "name": "JugDetergent",
@@ -4642,7 +4642,7 @@
   {
     "name": "Kaggle",
     "unicode": "0xF5FA",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Key",
@@ -4652,7 +4652,7 @@
   {
     "name": "Keybase",
     "unicode": "0xF4F5",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Keyboard",
@@ -4662,7 +4662,7 @@
   {
     "name": "Keycdn",
     "unicode": "0xF3BA",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Khanda",
@@ -4672,12 +4672,12 @@
   {
     "name": "Kickstarter",
     "unicode": "0xF3BB",
-    "state": 1
+    "state": 2
   },
   {
     "name": "KickstarterK",
     "unicode": "0xF3BC",
-    "state": 1
+    "state": 2
   },
   {
     "name": "KipSign",
@@ -4712,7 +4712,7 @@
   {
     "name": "Korvue",
     "unicode": "0xF42F",
-    "state": 1
+    "state": 2
   },
   {
     "name": "L",
@@ -4767,7 +4767,7 @@
   {
     "name": "Laravel",
     "unicode": "0xF3BD",
-    "state": 1
+    "state": 2
   },
   {
     "name": "LariSign",
@@ -4777,12 +4777,12 @@
   {
     "name": "Lastfm",
     "unicode": "0xF202",
-    "state": 1
+    "state": 2
   },
   {
     "name": "LastfmSquare",
     "unicode": "0xF203",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Laugh",
@@ -4817,7 +4817,7 @@
   {
     "name": "Leanpub",
     "unicode": "0xF212",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Lemon",
@@ -4827,7 +4827,7 @@
   {
     "name": "Less",
     "unicode": "0xF41D",
-    "state": 1
+    "state": 2
   },
   {
     "name": "LessThan",
@@ -4862,7 +4862,7 @@
   {
     "name": "Line",
     "unicode": "0xF3C0",
-    "state": 1
+    "state": 2
   },
   {
     "name": "LinesLeaning",
@@ -4877,22 +4877,22 @@
   {
     "name": "Linkedin",
     "unicode": "0xF08C",
-    "state": 1
+    "state": 2
   },
   {
     "name": "LinkedinIn",
     "unicode": "0xF0E1",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Linode",
     "unicode": "0xF2B8",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Linux",
     "unicode": "0xF17C",
-    "state": 1
+    "state": 2
   },
   {
     "name": "LiraSign",
@@ -4997,7 +4997,7 @@
   {
     "name": "Lyft",
     "unicode": "0xF3C3",
-    "state": 1
+    "state": 2
   },
   {
     "name": "M",
@@ -5007,7 +5007,7 @@
   {
     "name": "Magento",
     "unicode": "0xF3C4",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Magic",
@@ -5037,7 +5037,7 @@
   {
     "name": "Mailchimp",
     "unicode": "0xF59E",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Male",
@@ -5052,7 +5052,7 @@
   {
     "name": "Mandalorian",
     "unicode": "0xF50F",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Map",
@@ -5092,7 +5092,7 @@
   {
     "name": "Markdown",
     "unicode": "0xF60F",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Marker",
@@ -5147,7 +5147,7 @@
   {
     "name": "Mastodon",
     "unicode": "0xF4F6",
-    "state": 1
+    "state": 2
   },
   {
     "name": "MattressPillow",
@@ -5157,12 +5157,12 @@
   {
     "name": "Maxcdn",
     "unicode": "0xF136",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Mdb",
     "unicode": "0xF8CA",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Medal",
@@ -5172,17 +5172,17 @@
   {
     "name": "Medapps",
     "unicode": "0xF3C6",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Medium",
     "unicode": "0xF23A",
-    "state": 1
+    "state": 2
   },
   {
     "name": "MediumM",
     "unicode": "0xF3C7",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Medkit",
@@ -5192,17 +5192,17 @@
   {
     "name": "Medrt",
     "unicode": "0xF3C8",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Meetup",
     "unicode": "0xF2E0",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Megaport",
     "unicode": "0xF5A3",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Meh",
@@ -5227,7 +5227,7 @@
   {
     "name": "Mendeley",
     "unicode": "0xF7B3",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Menorah",
@@ -5282,7 +5282,7 @@
   {
     "name": "Microsoft",
     "unicode": "0xF3CA",
-    "state": 1
+    "state": 2
   },
   {
     "name": "MillSign",
@@ -5312,22 +5312,22 @@
   {
     "name": "Mix",
     "unicode": "0xF3CB",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Mixcloud",
     "unicode": "0xF289",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Mixer",
     "unicode": "0xF956",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Mizuni",
     "unicode": "0xF3CC",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Mobile",
@@ -5357,12 +5357,12 @@
   {
     "name": "Modx",
     "unicode": "0xF285",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Monero",
     "unicode": "0xF3D0",
-    "state": 1
+    "state": 2
   },
   {
     "name": "MoneyBill",
@@ -5502,12 +5502,12 @@
   {
     "name": "Napster",
     "unicode": "0xF3D2",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Neos",
     "unicode": "0xF612",
-    "state": 1
+    "state": 2
   },
   {
     "name": "NetworkWired",
@@ -5527,17 +5527,17 @@
   {
     "name": "Nimblr",
     "unicode": "0xF5A8",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Node",
     "unicode": "0xF419",
-    "state": 1
+    "state": 2
   },
   {
     "name": "NodeJs",
     "unicode": "0xF3D3",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Notdef",
@@ -5557,17 +5557,17 @@
   {
     "name": "Npm",
     "unicode": "0xF3D4",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Ns8",
     "unicode": "0xF3D5",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Nutritionix",
     "unicode": "0xF3D6",
-    "state": 1
+    "state": 2
   },
   {
     "name": "O",
@@ -5587,12 +5587,12 @@
   {
     "name": "Odnoklassniki",
     "unicode": "0xF263",
-    "state": 1
+    "state": 2
   },
   {
     "name": "OdnoklassnikiSquare",
     "unicode": "0xF264",
-    "state": 1
+    "state": 2
   },
   {
     "name": "OilCan",
@@ -5607,7 +5607,7 @@
   {
     "name": "OldRepublic",
     "unicode": "0xF510",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Om",
@@ -5617,32 +5617,32 @@
   {
     "name": "Opencart",
     "unicode": "0xF23D",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Openid",
     "unicode": "0xF19B",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Opera",
     "unicode": "0xF26A",
-    "state": 1
+    "state": 2
   },
   {
     "name": "OptinMonster",
     "unicode": "0xF23C",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Orcid",
     "unicode": "0xF8D2",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Osi",
     "unicode": "0xF41A",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Otter",
@@ -5662,12 +5662,12 @@
   {
     "name": "Page4",
     "unicode": "0xF3D7",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Pagelines",
     "unicode": "0xF18C",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Pager",
@@ -5692,7 +5692,7 @@
   {
     "name": "Palfed",
     "unicode": "0xF3D8",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Pallet",
@@ -5747,7 +5747,7 @@
   {
     "name": "Patreon",
     "unicode": "0xF3D9",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Pause",
@@ -5767,7 +5767,7 @@
   {
     "name": "Paypal",
     "unicode": "0xF1ED",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Peace",
@@ -5867,7 +5867,7 @@
   {
     "name": "Periscope",
     "unicode": "0xF3DA",
-    "state": 1
+    "state": 2
   },
   {
     "name": "PersonArrowDownToLine",
@@ -6042,17 +6042,17 @@
   {
     "name": "Phabricator",
     "unicode": "0xF3DB",
-    "state": 1
+    "state": 2
   },
   {
     "name": "PhoenixFramework",
     "unicode": "0xF3DC",
-    "state": 1
+    "state": 2
   },
   {
     "name": "PhoenixSquadron",
     "unicode": "0xF511",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Phone",
@@ -6092,27 +6092,27 @@
   {
     "name": "Php",
     "unicode": "0xF457",
-    "state": 1
+    "state": 2
   },
   {
     "name": "PiedPiper",
     "unicode": "0xF2AE",
-    "state": 1
+    "state": 2
   },
   {
     "name": "PiedPiperAlt",
     "unicode": "0xF1A8",
-    "state": 1
+    "state": 2
   },
   {
     "name": "PiedPiperHat",
     "unicode": "0xF4E5",
-    "state": 1
+    "state": 2
   },
   {
     "name": "PiedPiperPp",
     "unicode": "0xF1A7",
-    "state": 1
+    "state": 2
   },
   {
     "name": "PiedPiperSquare",
@@ -6132,17 +6132,17 @@
   {
     "name": "Pinterest",
     "unicode": "0xF0D2",
-    "state": 1
+    "state": 2
   },
   {
     "name": "PinterestP",
     "unicode": "0xF231",
-    "state": 1
+    "state": 2
   },
   {
     "name": "PinterestSquare",
     "unicode": "0xF0D3",
-    "state": 1
+    "state": 2
   },
   {
     "name": "PizzaSlice",
@@ -6222,7 +6222,7 @@
   {
     "name": "Playstation",
     "unicode": "0xF3DF",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Plug",
@@ -6362,7 +6362,7 @@
   {
     "name": "ProductHunt",
     "unicode": "0xF288",
-    "state": 1
+    "state": 2
   },
   {
     "name": "ProjectDiagram",
@@ -6382,7 +6382,7 @@
   {
     "name": "Pushed",
     "unicode": "0xF3E1",
-    "state": 1
+    "state": 2
   },
   {
     "name": "PuzzlePiece",
@@ -6392,7 +6392,7 @@
   {
     "name": "Python",
     "unicode": "0xF3E2",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Q",
@@ -6402,7 +6402,7 @@
   {
     "name": "Qq",
     "unicode": "0xF1D6",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Qrcode",
@@ -6427,12 +6427,12 @@
   {
     "name": "Quinscape",
     "unicode": "0xF459",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Quora",
     "unicode": "0xF2C4",
-    "state": 1
+    "state": 2
   },
   {
     "name": "QuoteLeft",
@@ -6487,32 +6487,32 @@
   {
     "name": "RaspberryPi",
     "unicode": "0xF7BB",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Ravelry",
     "unicode": "0xF2D9",
-    "state": 1
+    "state": 2
   },
   {
     "name": "React",
     "unicode": "0xF41B",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Reacteurope",
     "unicode": "0xF75D",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Readme",
     "unicode": "0xF4D5",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Rebel",
     "unicode": "0xF1D0",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Receipt",
@@ -6532,22 +6532,22 @@
   {
     "name": "Reddit",
     "unicode": "0xF1A1",
-    "state": 1
+    "state": 2
   },
   {
     "name": "RedditAlien",
     "unicode": "0xF281",
-    "state": 1
+    "state": 2
   },
   {
     "name": "RedditSquare",
     "unicode": "0xF1A2",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Redhat",
     "unicode": "0xF7BC",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Redo",
@@ -6562,7 +6562,7 @@
   {
     "name": "RedRiver",
     "unicode": "0xF3E3",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Registered",
@@ -6577,7 +6577,7 @@
   {
     "name": "Renren",
     "unicode": "0xF18B",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Repeat",
@@ -6597,7 +6597,7 @@
   {
     "name": "Replyd",
     "unicode": "0xF3E6",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Republican",
@@ -6607,12 +6607,12 @@
   {
     "name": "Researchgate",
     "unicode": "0xF4F8",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Resolving",
     "unicode": "0xF3E7",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Restroom",
@@ -6627,7 +6627,7 @@
   {
     "name": "Rev",
     "unicode": "0xF5B2",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Ribbon",
@@ -6692,12 +6692,12 @@
   {
     "name": "Rocketchat",
     "unicode": "0xF3E8",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Rockrms",
     "unicode": "0xF3E9",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Route",
@@ -6707,7 +6707,7 @@
   {
     "name": "RProject",
     "unicode": "0xF4F7",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Rss",
@@ -6792,7 +6792,7 @@
   {
     "name": "Safari",
     "unicode": "0xF267",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Sailboat",
@@ -6802,12 +6802,12 @@
   {
     "name": "Salesforce",
     "unicode": "0xF83B",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Sass",
     "unicode": "0xF41E",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Satellite",
@@ -6827,7 +6827,7 @@
   {
     "name": "Schlix",
     "unicode": "0xF3EA",
-    "state": 1
+    "state": 2
   },
   {
     "name": "School",
@@ -6867,7 +6867,7 @@
   {
     "name": "Scribd",
     "unicode": "0xF28A",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Scroll",
@@ -6892,7 +6892,7 @@
   {
     "name": "Searchengin",
     "unicode": "0xF3EB",
-    "state": 1
+    "state": 2
   },
   {
     "name": "SearchLocation",
@@ -6922,12 +6922,12 @@
   {
     "name": "Sellcast",
     "unicode": "0xF2DA",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Sellsy",
     "unicode": "0xF213",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Server",
@@ -6937,7 +6937,7 @@
   {
     "name": "Servicestack",
     "unicode": "0xF3EC",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Shapes",
@@ -7017,7 +7017,7 @@
   {
     "name": "Shirtsinbulk",
     "unicode": "0xF214",
-    "state": 1
+    "state": 2
   },
   {
     "name": "ShoePrints",
@@ -7027,7 +7027,7 @@
   {
     "name": "Shopify",
     "unicode": "0xF957",
-    "state": 1
+    "state": 2
   },
   {
     "name": "ShopLock",
@@ -7057,7 +7057,7 @@
   {
     "name": "Shopware",
     "unicode": "0xF5B5",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Shower",
@@ -7112,7 +7112,7 @@
   {
     "name": "Simplybuilt",
     "unicode": "0xF215",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Sink",
@@ -7122,7 +7122,7 @@
   {
     "name": "Sistrix",
     "unicode": "0xF3EE",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Sitemap",
@@ -7132,7 +7132,7 @@
   {
     "name": "Sith",
     "unicode": "0xF512",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Skating",
@@ -7142,7 +7142,7 @@
   {
     "name": "Sketch",
     "unicode": "0xF7C6",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Skiing",
@@ -7167,22 +7167,22 @@
   {
     "name": "Skyatlas",
     "unicode": "0xF216",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Skype",
     "unicode": "0xF17E",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Slack",
     "unicode": "0xF198",
-    "state": 1
+    "state": 2
   },
   {
     "name": "SlackHash",
     "unicode": "0xF3EF",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Slash",
@@ -7202,7 +7202,7 @@
   {
     "name": "Slideshare",
     "unicode": "0xF1E7",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Smile",
@@ -7242,17 +7242,17 @@
   {
     "name": "Snapchat",
     "unicode": "0xF2AB",
-    "state": 1
+    "state": 2
   },
   {
     "name": "SnapchatGhost",
     "unicode": "0xF2AC",
-    "state": 1
+    "state": 2
   },
   {
     "name": "SnapchatSquare",
     "unicode": "0xF2AD",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Snowboarding",
@@ -7367,12 +7367,12 @@
   {
     "name": "Soundcloud",
     "unicode": "0xF1BE",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Sourcetree",
     "unicode": "0xF7D3",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Spa",
@@ -7387,12 +7387,12 @@
   {
     "name": "Speakap",
     "unicode": "0xF3F3",
-    "state": 1
+    "state": 2
   },
   {
     "name": "SpeakerDeck",
     "unicode": "0xF83C",
-    "state": 1
+    "state": 2
   },
   {
     "name": "SpellCheck",
@@ -7417,7 +7417,7 @@
   {
     "name": "Spotify",
     "unicode": "0xF1BC",
-    "state": 1
+    "state": 2
   },
   {
     "name": "SprayCan",
@@ -7457,7 +7457,7 @@
   {
     "name": "Squarespace",
     "unicode": "0xF5BE",
-    "state": 1
+    "state": 2
   },
   {
     "name": "SquareVirus",
@@ -7472,17 +7472,17 @@
   {
     "name": "StackExchange",
     "unicode": "0xF18D",
-    "state": 1
+    "state": 2
   },
   {
     "name": "StackOverflow",
     "unicode": "0xF16C",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Stackpath",
     "unicode": "0xF842",
-    "state": 1
+    "state": 2
   },
   {
     "name": "StaffSnake",
@@ -7537,22 +7537,22 @@
   {
     "name": "Staylinked",
     "unicode": "0xF3F5",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Steam",
     "unicode": "0xF1B6",
-    "state": 1
+    "state": 2
   },
   {
     "name": "SteamSquare",
     "unicode": "0xF1B7",
-    "state": 1
+    "state": 2
   },
   {
     "name": "SteamSymbol",
     "unicode": "0xF3F6",
-    "state": 1
+    "state": 2
   },
   {
     "name": "StepBackward",
@@ -7572,7 +7572,7 @@
   {
     "name": "StickerMule",
     "unicode": "0xF3F7",
-    "state": 1
+    "state": 2
   },
   {
     "name": "StickyNote",
@@ -7617,7 +7617,7 @@
   {
     "name": "Strava",
     "unicode": "0xF428",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Stream",
@@ -7637,12 +7637,12 @@
   {
     "name": "Stripe",
     "unicode": "0xF429",
-    "state": 1
+    "state": 2
   },
   {
     "name": "StripeS",
     "unicode": "0xF42A",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Stroopwafel",
@@ -7652,17 +7652,17 @@
   {
     "name": "Studiovinari",
     "unicode": "0xF3F8",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Stumbleupon",
     "unicode": "0xF1A4",
-    "state": 1
+    "state": 2
   },
   {
     "name": "StumbleuponCircle",
     "unicode": "0xF1A3",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Subscript",
@@ -7697,7 +7697,7 @@
   {
     "name": "Superpowers",
     "unicode": "0xF2DD",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Superscript",
@@ -7707,7 +7707,7 @@
   {
     "name": "Supple",
     "unicode": "0xF3F9",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Surprise",
@@ -7717,7 +7717,7 @@
   {
     "name": "Suse",
     "unicode": "0xF7D6",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Swatchbook",
@@ -7727,7 +7727,7 @@
   {
     "name": "Swift",
     "unicode": "0xF8E1",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Swimmer",
@@ -7742,7 +7742,7 @@
   {
     "name": "Symfony",
     "unicode": "0xF83D",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Synagogue",
@@ -7842,7 +7842,7 @@
   {
     "name": "Teamspeak",
     "unicode": "0xF4F9",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Teeth",
@@ -7857,12 +7857,12 @@
   {
     "name": "Telegram",
     "unicode": "0xF2C6",
-    "state": 1
+    "state": 2
   },
   {
     "name": "TelegramPlane",
     "unicode": "0xF3FE",
-    "state": 1
+    "state": 2
   },
   {
     "name": "TemperatureArrowDown",
@@ -7887,7 +7887,7 @@
   {
     "name": "TencentWeibo",
     "unicode": "0xF1D5",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Tenge",
@@ -7952,17 +7952,17 @@
   {
     "name": "Themeco",
     "unicode": "0xF5C6",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Themeisle",
     "unicode": "0xF2B2",
-    "state": 1
+    "state": 2
   },
   {
     "name": "TheRedYeti",
     "unicode": "0xF69D",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Thermometer",
@@ -7997,7 +7997,7 @@
   {
     "name": "ThinkPeaks",
     "unicode": "0xF731",
-    "state": 1
+    "state": 2
   },
   {
     "name": "ThLarge",
@@ -8147,7 +8147,7 @@
   {
     "name": "TradeFederation",
     "unicode": "0xF513",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Trademark",
@@ -8162,7 +8162,7 @@
   {
     "name": "Trailer",
     "unicode": "0xF941",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Train",
@@ -8222,7 +8222,7 @@
   {
     "name": "Trello",
     "unicode": "0xF181",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Tripadvisor",
@@ -8312,12 +8312,12 @@
   {
     "name": "Tumblr",
     "unicode": "0xF173",
-    "state": 1
+    "state": 2
   },
   {
     "name": "TumblrSquare",
     "unicode": "0xF174",
-    "state": 1
+    "state": 2
   },
   {
     "name": "TurkishLiraSign",
@@ -8332,22 +8332,22 @@
   {
     "name": "Twitch",
     "unicode": "0xF1E8",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Twitter",
     "unicode": "0xF099",
-    "state": 1
+    "state": 2
   },
   {
     "name": "TwitterSquare",
     "unicode": "0xF081",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Typo3",
     "unicode": "0xF42B",
-    "state": 1
+    "state": 2
   },
   {
     "name": "U",
@@ -8357,22 +8357,22 @@
   {
     "name": "Uber",
     "unicode": "0xF402",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Ubuntu",
     "unicode": "0xF7DF",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Uikit",
     "unicode": "0xF403",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Umbraco",
     "unicode": "0xF8E8",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Umbrella",
@@ -8402,7 +8402,7 @@
   {
     "name": "Uniregistry",
     "unicode": "0xF404",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Unity",
@@ -8437,7 +8437,7 @@
   {
     "name": "Untappd",
     "unicode": "0xF405",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Upload",
@@ -8447,12 +8447,12 @@
   {
     "name": "Ups",
     "unicode": "0xF7E0",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Usb",
     "unicode": "0xF287",
-    "state": 1
+    "state": 2
   },
   {
     "name": "User",
@@ -8617,12 +8617,12 @@
   {
     "name": "Usps",
     "unicode": "0xF7E1",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Ussunnah",
     "unicode": "0xF407",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Utensils",
@@ -8642,7 +8642,7 @@
   {
     "name": "Vaadin",
     "unicode": "0xF408",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Vault",
@@ -8682,17 +8682,17 @@
   {
     "name": "Viacoin",
     "unicode": "0xF237",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Viadeo",
     "unicode": "0xF2A9",
-    "state": 1
+    "state": 2
   },
   {
     "name": "ViadeoSquare",
     "unicode": "0xF2AA",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Vial",
@@ -8717,7 +8717,7 @@
   {
     "name": "Viber",
     "unicode": "0xF409",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Video",
@@ -8737,22 +8737,22 @@
   {
     "name": "Vimeo",
     "unicode": "0xF40A",
-    "state": 1
+    "state": 2
   },
   {
     "name": "VimeoSquare",
     "unicode": "0xF194",
-    "state": 1
+    "state": 2
   },
   {
     "name": "VimeoV",
     "unicode": "0xF27D",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Vine",
     "unicode": "0xF1CA",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Virus",
@@ -8782,12 +8782,12 @@
   {
     "name": "Vk",
     "unicode": "0xF189",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Vnv",
     "unicode": "0xF40B",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Voicemail",
@@ -8837,7 +8837,7 @@
   {
     "name": "Vuejs",
     "unicode": "0xF41F",
-    "state": 1
+    "state": 2
   },
   {
     "name": "W",
@@ -8887,17 +8887,17 @@
   {
     "name": "Waze",
     "unicode": "0xF83F",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Weebly",
     "unicode": "0xF5CC",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Weibo",
     "unicode": "0xF18A",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Weight",
@@ -8912,17 +8912,17 @@
   {
     "name": "Weixin",
     "unicode": "0xF1D7",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Whatsapp",
     "unicode": "0xF232",
-    "state": 1
+    "state": 2
   },
   {
     "name": "WhatsappSquare",
     "unicode": "0xF40C",
-    "state": 1
+    "state": 2
   },
   {
     "name": "WheatAwn",
@@ -8947,7 +8947,7 @@
   {
     "name": "Whmcs",
     "unicode": "0xF40D",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Wifi",
@@ -8957,7 +8957,7 @@
   {
     "name": "WikipediaW",
     "unicode": "0xF266",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Wind",
@@ -8987,7 +8987,7 @@
   {
     "name": "Windows",
     "unicode": "0xF17A",
-    "state": 1
+    "state": 2
   },
   {
     "name": "WineBottle",
@@ -9007,17 +9007,17 @@
   {
     "name": "Wix",
     "unicode": "0xF5CF",
-    "state": 1
+    "state": 2
   },
   {
     "name": "WizardsOfTheCoast",
     "unicode": "0xF730",
-    "state": 1
+    "state": 2
   },
   {
     "name": "WolfPackBattalion",
     "unicode": "0xF514",
-    "state": 1
+    "state": 2
   },
   {
     "name": "WonSign",
@@ -9027,12 +9027,12 @@
   {
     "name": "Wordpress",
     "unicode": "0xF19A",
-    "state": 1
+    "state": 2
   },
   {
     "name": "WordpressSimple",
     "unicode": "0xF411",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Worm",
@@ -9042,22 +9042,22 @@
   {
     "name": "Wpbeginner",
     "unicode": "0xF297",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Wpexplorer",
     "unicode": "0xF2DE",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Wpforms",
     "unicode": "0xF298",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Wpressr",
     "unicode": "0xF3E4",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Wrench",
@@ -9072,17 +9072,17 @@
   {
     "name": "Xbox",
     "unicode": "0xF412",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Xing",
     "unicode": "0xF168",
-    "state": 1
+    "state": 2
   },
   {
     "name": "XingSquare",
     "unicode": "0xF169",
-    "state": 1
+    "state": 2
   },
   {
     "name": "XmarksLines",
@@ -9102,37 +9102,37 @@
   {
     "name": "Yahoo",
     "unicode": "0xF19E",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Yammer",
     "unicode": "0xF840",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Yandex",
     "unicode": "0xF413",
-    "state": 1
+    "state": 2
   },
   {
     "name": "YandexInternational",
     "unicode": "0xF414",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Yarn",
     "unicode": "0xF7E3",
-    "state": 1
+    "state": 2
   },
   {
     "name": "YCombinator",
     "unicode": "0xF23B",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Yelp",
     "unicode": "0xF1E9",
-    "state": 1
+    "state": 2
   },
   {
     "name": "YenSign",
@@ -9147,17 +9147,17 @@
   {
     "name": "Yoast",
     "unicode": "0xF2B1",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Youtube",
     "unicode": "0xF167",
-    "state": 1
+    "state": 2
   },
   {
     "name": "YoutubeSquare",
     "unicode": "0xF431",
-    "state": 1
+    "state": 2
   },
   {
     "name": "Z",
@@ -9167,6 +9167,6 @@
   {
     "name": "Zhihu",
     "unicode": "0xF63F",
-    "state": 1
+    "state": 2
   }
 ]
