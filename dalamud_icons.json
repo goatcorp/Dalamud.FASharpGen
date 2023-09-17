@@ -70,11 +70,6 @@
     "state": 2
   },
   {
-    "name": "AcquisitionsIncorporated",
-    "unicode": "0xF6AF",
-    "state": 1
-  },
-  {
     "name": "Ad",
     "unicode": "0xF641",
     "state": 0
@@ -98,11 +93,6 @@
     "name": "Adn",
     "unicode": "0xF170",
     "state": 2
-  },
-  {
-    "name": "Adobe",
-    "unicode": "0xF778",
-    "state": 1
   },
   {
     "name": "Adversal",
@@ -5245,11 +5235,6 @@
     "state": 0
   },
   {
-    "name": "Microblog",
-    "unicode": "0xF91A",
-    "state": 1
-  },
-  {
     "name": "Microchip",
     "unicode": "0xF2DB",
     "state": 0
@@ -5805,11 +5790,6 @@
     "state": 0
   },
   {
-    "name": "PennyArcade",
-    "unicode": "0xF704",
-    "state": 1
-  },
-  {
     "name": "PenSquare",
     "unicode": "0xF14B",
     "state": 0
@@ -6113,11 +6093,6 @@
     "name": "PiedPiperPp",
     "unicode": "0xF1A7",
     "state": 2
-  },
-  {
-    "name": "PiedPiperSquare",
-    "unicode": "0xF91E",
-    "state": 1
   },
   {
     "name": "PiggyBank",
@@ -8225,11 +8200,6 @@
     "state": 2
   },
   {
-    "name": "Tripadvisor",
-    "unicode": "0xF262",
-    "state": 1
-  },
-  {
     "name": "Trophy",
     "unicode": "0xF091",
     "state": 0
@@ -8403,11 +8373,6 @@
     "name": "Uniregistry",
     "unicode": "0xF404",
     "state": 2
-  },
-  {
-    "name": "Unity",
-    "unicode": "0xF949",
-    "state": 1
   },
   {
     "name": "UniversalAccess",
