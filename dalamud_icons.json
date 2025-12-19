@@ -115,6 +115,11 @@
     "state": 0
   },
   {
+    "name": "AlarmClock",
+    "unicode": "0xF34E",
+    "state": 0
+  },
+  {
     "name": "Algolia",
     "unicode": "0xF36C",
     "state": 2
@@ -1270,6 +1275,11 @@
     "state": 0
   },
   {
+    "name": "BusSide",
+    "unicode": "0xE81D",
+    "state": 0
+  },
+  {
     "name": "BuyNLarge",
     "unicode": "0xF8A6",
     "state": 2
@@ -1582,6 +1592,11 @@
   {
     "name": "ChartColumn",
     "unicode": "0xE0E3",
+    "state": 0
+  },
+  {
+    "name": "ChartDiagram",
+    "unicode": "0xE695",
     "state": 0
   },
   {
@@ -2002,6 +2017,11 @@
   {
     "name": "CommentMedical",
     "unicode": "0xF7F5",
+    "state": 0
+  },
+  {
+    "name": "CommentNodes",
+    "unicode": "0xE696",
     "state": 0
   },
   {
@@ -3012,6 +3032,16 @@
   {
     "name": "FileExport",
     "unicode": "0xF56E",
+    "state": 0
+  },
+  {
+    "name": "FileFragment",
+    "unicode": "0xE697",
+    "state": 0
+  },
+  {
+    "name": "FileHalfDashed",
+    "unicode": "0xE698",
     "state": 0
   },
   {
@@ -4110,6 +4140,21 @@
     "state": 0
   },
   {
+    "name": "Hexagon",
+    "unicode": "0xF312",
+    "state": 0
+  },
+  {
+    "name": "HexagonNodes",
+    "unicode": "0xE699",
+    "state": 0
+  },
+  {
+    "name": "HexagonNodesBolt",
+    "unicode": "0xE69A",
+    "state": 0
+  },
+  {
     "name": "Highlighter",
     "unicode": "0xF591",
     "state": 0
@@ -4492,7 +4537,7 @@
   {
     "name": "InstagramSquare",
     "unicode": "0xF955",
-    "state": 2
+    "state": 1
   },
   {
     "name": "Intercom",
@@ -5340,6 +5385,11 @@
     "state": 0
   },
   {
+    "name": "MobileVibrate",
+    "unicode": "0xE816",
+    "state": 0
+  },
+  {
     "name": "Modx",
     "unicode": "0xF285",
     "state": 2
@@ -5525,6 +5575,11 @@
     "state": 2
   },
   {
+    "name": "NonBinary",
+    "unicode": "0xE807",
+    "state": 0
+  },
+  {
     "name": "Notdef",
     "unicode": "0xE1FE",
     "state": 0
@@ -5567,6 +5622,11 @@
   {
     "name": "ObjectUngroup",
     "unicode": "0xF248",
+    "state": 0
+  },
+  {
+    "name": "Octagon",
+    "unicode": "0xF306",
     "state": 0
   },
   {
@@ -5792,6 +5852,11 @@
   {
     "name": "PenSquare",
     "unicode": "0xF14B",
+    "state": 0
+  },
+  {
+    "name": "Pentagon",
+    "unicode": "0xE790",
     "state": 0
   },
   {
@@ -6905,6 +6970,11 @@
     "state": 2
   },
   {
+    "name": "Septagon",
+    "unicode": "0xE820",
+    "state": 0
+  },
+  {
     "name": "Server",
     "unicode": "0xF233",
     "state": 0
@@ -7088,6 +7158,16 @@
     "name": "Simplybuilt",
     "unicode": "0xF215",
     "state": 2
+  },
+  {
+    "name": "SingleQuoteLeft",
+    "unicode": "0xE81B",
+    "state": 0
+  },
+  {
+    "name": "SingleQuoteRight",
+    "unicode": "0xE81C",
+    "state": 0
   },
   {
     "name": "Sink",
@@ -7385,6 +7465,11 @@
     "state": 0
   },
   {
+    "name": "Spiral",
+    "unicode": "0xE80A",
+    "state": 0
+  },
+  {
     "name": "Splotch",
     "unicode": "0xF5BC",
     "state": 0
@@ -7407,6 +7492,11 @@
   {
     "name": "SquareArrowUpRight",
     "unicode": "0xF14C",
+    "state": 0
+  },
+  {
+    "name": "SquareBinary",
+    "unicode": "0xE69B",
     "state": 0
   },
   {
@@ -7750,6 +7840,21 @@
     "state": 0
   },
   {
+    "name": "TableCellsColumnLock",
+    "unicode": "0xE678",
+    "state": 0
+  },
+  {
+    "name": "TableCellsRowLock",
+    "unicode": "0xE67A",
+    "state": 0
+  },
+  {
+    "name": "TableCellsRowUnlock",
+    "unicode": "0xE691",
+    "state": 0
+  },
+  {
     "name": "Tablet",
     "unicode": "0xF3FB",
     "state": 0
@@ -7997,6 +8102,11 @@
   {
     "name": "Thumbtack",
     "unicode": "0xF08D",
+    "state": 0
+  },
+  {
+    "name": "ThumbtackSlash",
+    "unicode": "0xE68F",
     "state": 0
   },
   {
@@ -8617,7 +8727,7 @@
   {
     "name": "VectorSquare",
     "unicode": "0xF5CB",
-    "state": 0
+    "state": 1
   },
   {
     "name": "Venus",
@@ -8853,6 +8963,11 @@
     "name": "Waze",
     "unicode": "0xF83F",
     "state": 2
+  },
+  {
+    "name": "WebAwesome",
+    "unicode": "0xE682",
+    "state": 0
   },
   {
     "name": "Weebly",
