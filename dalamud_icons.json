@@ -2,32 +2,32 @@
   {
     "name": "_0",
     "unicode": "0x30",
-    "state": 2
+    "state": 0
   },
   {
     "name": "_1",
     "unicode": "0x31",
-    "state": 2
+    "state": 0
   },
   {
     "name": "_2",
     "unicode": "0x32",
-    "state": 2
+    "state": 0
   },
   {
     "name": "_3",
     "unicode": "0x33",
-    "state": 2
+    "state": 0
   },
   {
     "name": "_4",
     "unicode": "0x34",
-    "state": 2
+    "state": 0
   },
   {
     "name": "_5",
     "unicode": "0x35",
-    "state": 2
+    "state": 0
   },
   {
     "name": "_500Px",
@@ -37,27 +37,27 @@
   {
     "name": "_6",
     "unicode": "0x36",
-    "state": 2
+    "state": 0
   },
   {
     "name": "_7",
     "unicode": "0x37",
-    "state": 2
+    "state": 0
   },
   {
     "name": "_8",
     "unicode": "0x38",
-    "state": 2
+    "state": 0
   },
   {
     "name": "_9",
     "unicode": "0x39",
-    "state": 2
+    "state": 0
   },
   {
     "name": "A",
     "unicode": "0x41",
-    "state": 2
+    "state": 0
   },
   {
     "name": "AccessibleIcon",
@@ -637,7 +637,7 @@
   {
     "name": "B",
     "unicode": "0x42",
-    "state": 2
+    "state": 0
   },
   {
     "name": "Baby",
@@ -1292,7 +1292,7 @@
   {
     "name": "C",
     "unicode": "0x43",
-    "state": 2
+    "state": 0
   },
   {
     "name": "Calculator",
@@ -2287,7 +2287,7 @@
   {
     "name": "D",
     "unicode": "0x44",
-    "state": 2
+    "state": 0
   },
   {
     "name": "Dailymotion",
@@ -2642,7 +2642,7 @@
   {
     "name": "E",
     "unicode": "0x45",
-    "state": 2
+    "state": 0
   },
   {
     "name": "Earlybirds",
@@ -2857,7 +2857,7 @@
   {
     "name": "F",
     "unicode": "0x46",
-    "state": 2
+    "state": 0
   },
   {
     "name": "Facebook",
@@ -3407,7 +3407,7 @@
   {
     "name": "G",
     "unicode": "0x47",
-    "state": 2
+    "state": 0
   },
   {
     "name": "GalacticRepublic",
@@ -3817,7 +3817,7 @@
   {
     "name": "H",
     "unicode": "0x48",
-    "state": 2
+    "state": 0
   },
   {
     "name": "HackerNews",
@@ -4432,7 +4432,7 @@
   {
     "name": "I",
     "unicode": "0x49",
-    "state": 2
+    "state": 0
   },
   {
     "name": "IceCream",
@@ -4582,7 +4582,7 @@
   {
     "name": "J",
     "unicode": "0x4A",
-    "state": 2
+    "state": 0
   },
   {
     "name": "Jar",
@@ -4667,7 +4667,7 @@
   {
     "name": "K",
     "unicode": "0x4B",
-    "state": 2
+    "state": 0
   },
   {
     "name": "Kaaba",
@@ -4752,7 +4752,7 @@
   {
     "name": "L",
     "unicode": "0x4C",
-    "state": 2
+    "state": 0
   },
   {
     "name": "Landmark",
@@ -5037,7 +5037,7 @@
   {
     "name": "M",
     "unicode": "0x4D",
-    "state": 2
+    "state": 0
   },
   {
     "name": "Magento",
@@ -5527,7 +5527,7 @@
   {
     "name": "N",
     "unicode": "0x4E",
-    "state": 2
+    "state": 0
   },
   {
     "name": "NairaSign",
@@ -5612,7 +5612,7 @@
   {
     "name": "O",
     "unicode": "0x4F",
-    "state": 2
+    "state": 0
   },
   {
     "name": "ObjectGroup",
@@ -5702,7 +5702,7 @@
   {
     "name": "P",
     "unicode": "0x50",
-    "state": 2
+    "state": 0
   },
   {
     "name": "Page4",
@@ -6437,7 +6437,7 @@
   {
     "name": "Q",
     "unicode": "0x51",
-    "state": 2
+    "state": 0
   },
   {
     "name": "Qq",
@@ -6492,7 +6492,7 @@
   {
     "name": "R",
     "unicode": "0x52",
-    "state": 2
+    "state": 0
   },
   {
     "name": "Radiation",
@@ -6807,7 +6807,7 @@
   {
     "name": "S",
     "unicode": "0x53",
-    "state": 2
+    "state": 0
   },
   {
     "name": "SackDollar",
@@ -7832,7 +7832,7 @@
   {
     "name": "T",
     "unicode": "0x54",
-    "state": 2
+    "state": 0
   },
   {
     "name": "Table",
@@ -8432,7 +8432,7 @@
   {
     "name": "U",
     "unicode": "0x55",
-    "state": 2
+    "state": 0
   },
   {
     "name": "Uber",
@@ -8712,7 +8712,7 @@
   {
     "name": "V",
     "unicode": "0x56",
-    "state": 2
+    "state": 0
   },
   {
     "name": "Vaadin",
@@ -8917,7 +8917,7 @@
   {
     "name": "W",
     "unicode": "0x57",
-    "state": 2
+    "state": 0
   },
   {
     "name": "WalkieTalkie",
@@ -9147,7 +9147,7 @@
   {
     "name": "X",
     "unicode": "0x58",
-    "state": 2
+    "state": 0
   },
   {
     "name": "Xbox",
@@ -9177,7 +9177,7 @@
   {
     "name": "Y",
     "unicode": "0x59",
-    "state": 2
+    "state": 0
   },
   {
     "name": "Yahoo",
@@ -9242,7 +9242,7 @@
   {
     "name": "Z",
     "unicode": "0x5A",
-    "state": 2
+    "state": 0
   },
   {
     "name": "Zhihu",
